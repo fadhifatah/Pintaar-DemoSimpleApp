@@ -11,3 +11,8 @@
 /build
 /captures
 .externalNativeBuild
+.idea/*
+.project
+.settings
+.classpath
+app/release
